@@ -1,0 +1,109 @@
+{
+  "app": {
+    "name": "SkillConnect",
+    "tagline": "Reliable local help, matched by skill",
+    "intro": "Post a job, get matched with a nearby worker, and follow it through to completion.",
+    "ctaClient": "Post a job",
+    "ctaWorker": "Find work"
+  },
+  "nav": {
+    "home": "Home",
+    "jobs": "Jobs",
+    "postJob": "Post a job",
+    "account": "Account",
+    "profile": "Profile",
+    "workerHome": "Work",
+    "availability": "Available now",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "language": "Language"
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Sign in with your phone number.",
+    "registerTitle": "Create your account",
+    "registerSubtitle": "Choose how you want to use SkillConnect.",
+    "name": "Full name",
+    "phone": "Phone number",
+    "password": "Password",
+    "role": "I want to",
+    "roleClient": "Hire a worker",
+    "roleWorker": "Find work",
+    "submitLogin": "Sign in",
+    "submitRegister": "Create account",
+    "haveAccount": "Already have an account?",
+    "noAccount": "New to SkillConnect?",
+    "demoHint": "Demo client: 0911000001 / password123",
+    "demoWorkerHint": "Demo worker: 0912000001 / password123"
+  },
+  "jobs": {
+    "title": "My jobs",
+    "empty": "No jobs yet. Post one to get matched with a worker.",
+    "newTitle": "Post a job",
+    "newSubtitle": "Describe the work, pick the skills and set the location.",
+    "jobTitle": "Job title",
+    "description": "Description",
+    "skills": "Required skills",
+    "location": "Location",
+    "pickLocation": "Pick on map",
+    "submit": "Post job",
+    "cancel": "Cancel job",
+    "start": "Start work",
+    "complete": "Mark complete",
+    "rate": "Rate worker",
+    "status": "Status",
+    "worker": "Worker",
+    "posted": "Posted",
+    "cancelConfirm": "Cancel this job?",
+    "rated": "Rated",
+    "noWorker": "Looking for a worker",
+    "detail": "Job detail",
+    "browse": "Browse jobs"
+  },
+  "offer": {
+    "title": "Job offer",
+    "expiresIn": "Respond within",
+    "expired": "This offer has expired.",
+    "accept": "Accept job",
+    "reject": "Decline",
+    "accepted": "You accepted this job.",
+    "rejected": "Offer declined.",
+    "distance": "km away",
+    "deadlineNote": "SMS delivery does not prove the message was read."
+  },
+  "chat": {
+    "title": "Chat",
+    "placeholder": "Write a message",
+    "send": "Send",
+    "empty": "No messages yet."
+  },
+  "worker": {
+    "profileTitle": "Worker profile",
+    "profileSubtitle": "Skills, experience and location help you get matched.",
+    "experience": "Years of experience",
+    "about": "About you",
+    "save": "Save profile",
+    "availableToggle": "Available now",
+    "offers": "Offers",
+    "assigned": "Assigned jobs",
+    "noOffers": "No offers yet. Keep your availability on."
+  },
+  "status": {
+    "SEARCHING": "Looking for a worker",
+    "ASSIGNED": "Worker assigned",
+    "IN_PROGRESS": "Work in progress",
+    "COMPLETED": "Completed",
+    "CANCELLED": "Cancelled",
+    "EXPIRED": "No worker found"
+  },
+  "common": {
+    "loading": "Loading…",
+    "retry": "Try again",
+    "save": "Save",
+    "saved": "Saved",
+    "somethingWrong": "Something went wrong.",
+    "signInRequired": "Sign in to continue.",
+    "notFound": "Not found",
+    "back": "Back"
+  }
+}

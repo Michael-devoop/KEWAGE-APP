@@ -1,0 +1,109 @@
+{
+  "app": {
+    "name": "SkillConnect",
+    "tagline": "በክህሎት የሚገናኝ አስተማማኝ የአካባቢ እርዳታ",
+    "intro": "ስራ ይለጥፉ፣ በአቅራቢያዎ ካለ ሰራተኛ ጋር ይገናኙ፣ እስከ መጠናቀቅ ይከታተሉ።",
+    "ctaClient": "ስራ ለጥፍ",
+    "ctaWorker": "ስራ ፈልግ"
+  },
+  "nav": {
+    "home": "መነሻ",
+    "jobs": "ስራዎች",
+    "postJob": "ስራ ለጥፍ",
+    "account": "መለያ",
+    "profile": "መገለጫ",
+    "workerHome": "ስራ",
+    "availability": "አሁን ይገኛል",
+    "signIn": "ይግቡ",
+    "signOut": "ውጣ",
+    "language": "ቋንቋ"
+  },
+  "auth": {
+    "loginTitle": "እንኳን ደህና መጡ",
+    "loginSubtitle": "በስልክ ቁጥርዎ ይግቡ።",
+    "registerTitle": "መለያ ይፍጠሩ",
+    "registerSubtitle": "SkillConnect እንዴት እንደሚጠቀሙበት ይምረጡ።",
+    "name": "ሙሉ ስም",
+    "phone": "የስልክ ቁጥር",
+    "password": "የይለፍ ቃል",
+    "role": "እኔ መሆን እፈልጋለሁ",
+    "roleClient": "ሰራተኛ ቀጥር",
+    "roleWorker": "ስራ ፈልግ",
+    "submitLogin": "ይግቡ",
+    "submitRegister": "መለያ ፍጠር",
+    "haveAccount": "መለያ አለዎት?",
+    "noAccount": "SkillConnect አዲስ ነው?",
+    "demoHint": "ማሳያ ደንበኛ፡ 0911000001 / password123",
+    "demoWorkerHint": "ማሳያ ሰራተኛ፡ 0912000001 / password123"
+  },
+  "jobs": {
+    "title": "የእኔ ስራዎች",
+    "empty": "እስካሁን ስራ የለም። ሰራተኛ ለማግኘት ስራ ይለጥፉ።",
+    "newTitle": "ስራ ለጥፍ",
+    "newSubtitle": "ስራውን ይግለጹ፣ ክህሎቶችን ይምረጡ እና ቦታውን ያስቀምጡ።",
+    "jobTitle": "የስራ ርዕስ",
+    "description": "መግለጫ",
+    "skills": "የሚያስፈልጉ ክህሎቶች",
+    "location": "ቦታ",
+    "pickLocation": "በካርታ ይምረጡ",
+    "submit": "ስራ ለጥፍ",
+    "cancel": "ስራውን ሰርዝ",
+    "start": "ስራ ጀምር",
+    "complete": "ተጠናቋል ብለው ያመልክቱ",
+    "rate": "ሰራተኛውን ይገምግሙ",
+    "status": "ሁኔታ",
+    "worker": "ሰራተኛ",
+    "posted": "የተለጠፈበት",
+    "cancelConfirm": "ይህን ስራ ሰርዝ?",
+    "rated": "ተገምግሟል",
+    "noWorker": "ሰራተኛ በመፈለግ ላይ",
+    "detail": "የስራ ዝርዝር",
+    "browse": "ስራዎችን ይመልከቱ"
+  },
+  "offer": {
+    "title": "የስራ ጥሪ",
+    "expiresIn": "የሚመልሱበት ጊዜ",
+    "expired": "ይህ ጥሪ ጊዜው አልፏል።",
+    "accept": "ስራውን ተቀበል",
+    "reject": "አትቀበል",
+    "accepted": "ስራውን ተቀብለዋል።",
+    "rejected": "ጥሪው አልተቀበለም።",
+    "distance": "ኪሜ ርቀት",
+    "deadlineNote": "SMS መድረሱ መነበቡን አያረጋግጥም።"
+  },
+  "chat": {
+    "title": "ውይይት",
+    "placeholder": "መልእክት ይጻፉ",
+    "send": "ላክ",
+    "empty": "እስካሁን መልእክት የለም።"
+  },
+  "worker": {
+    "profileTitle": "የሰራተኛ መገለጫ",
+    "profileSubtitle": "ክህሎት፣ ልምድ እና ቦታ እንዲገናኙ ይረዳሉ።",
+    "experience": "የልምድ ዓመታት",
+    "about": "ስለ እርስዎ",
+    "save": "መገለጫ አስቀምጥ",
+    "availableToggle": "አሁን ይገኛል",
+    "offers": "ጥሪዎች",
+    "assigned": "የተመደቡ ስራዎች",
+    "noOffers": "እስካሁን ጥሪ የለም። መገኘትዎን ያቆዩ።"
+  },
+  "status": {
+    "SEARCHING": "ሰራተኛ በመፈለግ ላይ",
+    "ASSIGNED": "ሰራተኛ ተመድቧል",
+    "IN_PROGRESS": "ስራ በሂደት ላይ",
+    "COMPLETED": "ተጠናቋል",
+    "CANCELLED": "ተሰርዟል",
+    "EXPIRED": "ሰራተኛ አልተገኘም"
+  },
+  "common": {
+    "loading": "በመጫን ላይ…",
+    "retry": "እንደገና ይሞክሩ",
+    "save": "አስቀምጥ",
+    "saved": "ተቀምጧል",
+    "somethingWrong": "የተሳሳተ ነገር ተከስቷል።",
+    "signInRequired": "ለመቀጠል ይግቡ።",
+    "notFound": "አልተገኘም",
+    "back": "ተመለስ"
+  }
+}
