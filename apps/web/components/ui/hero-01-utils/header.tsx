@@ -71,7 +71,7 @@ export default function Header({
             href="/"
             className="flex items-center gap-2 rounded-full pr-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50"
           >
-            <Logo className="size-8 shadow-soft" />
+            <Logo className="h-11" />
             <span className="text-[15px] font-semibold tracking-tight">SkillConnect</span>
           </Link>
 
@@ -136,7 +136,7 @@ export default function Header({
                 <SheetContent side="right" className="w-[85%] sm:max-w-sm">
                   <SheetHeader className="border-b border-border/60">
                     <SheetTitle className="flex items-center gap-2">
-                      <Logo className="size-7" />
+                      <Logo className="h-8" />
                       SkillConnect
                     </SheetTitle>
                   </SheetHeader>

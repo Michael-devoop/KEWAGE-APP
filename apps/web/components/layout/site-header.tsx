@@ -21,7 +21,7 @@ export async function SiteHeader() {
           href={homeHref}
           className="relative z-10 flex items-center gap-2 rounded-full pr-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50"
         >
-          <Logo className="size-8 shadow-soft" />
+          <Logo className="h-10" />
           <span className="text-[15px] font-semibold tracking-tight">SkillConnect</span>
         </Link>
 

@@ -34,7 +34,7 @@ export default async function OfferPage({ params }: { params: Promise<{ token: s
       <div className="relative w-full max-w-lg animate-fade-up">
         <header className="mb-5 flex items-center justify-between gap-3">
           <div className="flex items-center gap-2">
-            <Logo className="size-9 shadow-soft" />
+            <Logo className="h-10" />
             <div>
               <p className="text-sm font-semibold leading-tight">SkillConnect</p>
               <p className="text-xs text-muted-foreground">{t("title")}</p>

@@ -135,7 +135,7 @@ export function AuthShell({
 
       <header className="absolute inset-x-0 top-0 z-10 flex items-center justify-between border-b border-zinc-800/80 px-6 py-4">
         <Link href="/" className="flex items-center gap-2">
-          <Logo className="size-7" />
+          <Logo className="h-9" />
           <span className="text-xs uppercase tracking-[0.14em] text-zinc-300">
             SkillConnect
           </span>

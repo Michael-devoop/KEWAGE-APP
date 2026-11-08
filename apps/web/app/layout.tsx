@@ -19,7 +19,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   const messages = await getMessages();
 
   return (
-    <html lang={locale} className={cn("h-full antialiased", inter.variable, geistMono.variable)}>
+    <html lang={locale} suppressHydrationWarning className={cn("h-full antialiased", inter.variable, geistMono.variable)}>
       <body className="flex min-h-full flex-col bg-background text-foreground">
         <NextIntlClientProvider messages={messages} locale={locale}>
           <Providers>{children}</Providers>
